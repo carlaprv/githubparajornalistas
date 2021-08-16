@@ -101,6 +101,6 @@ https://github.com/estadao
 
 https://dadosabertos.social/t/projetos-com-dados-abertos-em-git-publico/217
 
-## ** Desafios:** 
+## Desafios
 - Faça um [`Fork`](https://docs.github.com/pt/github/getting-started-with-github/quickstart/fork-a-repo) dos repositórios que te interessar e veja o que acontece.
 - Estude a organização dos repositórios: diretórios, nomenclaturas utilizadas, arquivos disponibilizados, licenças etc.
