@@ -9,7 +9,6 @@ Tutorial inspirado em: [Github para Periodistas](https://github.com/craft2es/git
 ## Git x GitHub?
 
 ### O que é Git?
-
 Git é um sistema de código aberto e gratuito para controle de versão, criado em 2005 por Linus Torvalds enquanto desenvolvia o Kernel do Linux. Controle de versão é um sistema que permite gravar alterações em arquivos ao longo do tempo, portanto, podemos visualizar versões específicas desses arquivos posteriormente.
 
 Geralmente, acontece de termos muitos desenvolvedores trabalhando numa mesma base de códigos, então um sistema de controle de versão como o Git é necessário para diminuir conflitos entre o código de cada desenvolvedor.
@@ -18,6 +17,22 @@ Geralmente, acontece de termos muitos desenvolvedores trabalhando numa mesma bas
 Se você vai utilizar Git, é necessário armazenar seu repositório em algum lugar. Existem duas formas de se fazer isso, offline, no seu próprio computador, ou online, em alguma plataforma como GitHub.
 
 É exatamente para isso que o GitHub serve, para armazenar seus repositórios, ele é o **“Google Drive dos códigos”**.
+
+### Por que aprender Git(Hub)? 
+
++ [How journalists can get started GitHub?](https://ijnet.org/en/story/how-journalists-can-get-started-github)
+
++ [Getting GitHub: Why journalists should know and use the social coding site](https://knightlab.northwestern.edu/2013/06/13/getting-github-why-journalists-should-know-and-use-the-social-coding-site/)
+
+### Como aprender Git(Hub)? 
+
++ [GitHub tutorials and resources for journalists](https://www.poynter.org/news/github-tutorials-and-resources-journalists)
+
++ [Vídeos Github Guides (<5min cada)](https://www.youtube.com/githubguides) 
+
++ [Git Cheat Sheet (lista dos códigos Git por utilidade)](https://www.git-tower.com/blog/git-cheat-sheet/)
+
+## Tutorial
 
 ## 1. Crie uma conta no GitHub
 
