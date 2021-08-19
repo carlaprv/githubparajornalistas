@@ -78,7 +78,7 @@ Para utilizar o github via linha de comando:
 
 * siga o tutorial: [Instalando e Configurando o Git no Windows, Linux e Mac
 ](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) ou [Instalando, configurando e inicializando o Git no Linux]( https://dev.to/womakerscode/instalando-configurando-e-inicializando-o-git-no-linux-2m96)
-* pule para a seção [Lista de projetos de jornalismo de dados recomendados](/#lista-de-projetos-de-jornalismo-de-dados-recomendados)
+* pule para a seção [Lista de projetos de jornalismo de dados recomendados](https://github.com/carlaprv/githubparajornalistas#lista-de-projetos-de-jornalismo-de-dados-recomendados)
 
 ![image](https://user-images.githubusercontent.com/17505036/130127514-eec92fee-3a6e-4540-881a-3d1f69e75e89.png)
 
