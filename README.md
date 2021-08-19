@@ -60,7 +60,6 @@ Após a criação do repositório, ele estará disponível no endereço `https:/
 ## Prontinho! Agora você tem o seu primeiro repositório
 
 Agora, vamos ver como salvar o repositório no seu computador.
-
 ![image](https://user-images.githubusercontent.com/17505036/129568811-ac6071fa-f2b9-4dec-b085-30ed77eff78f.png)
 
 
@@ -72,7 +71,22 @@ Crie sua pasta de repositórios para que você não esqueça onde estão seus pr
 Quando você copiar seu repositório do Github para o seu computador, salve o repositório dentro da pasta `repos`.
 ![image](https://user-images.githubusercontent.com/17505036/129566724-09d70bb1-0276-41a3-a415-a3ca59bb3510.png)
 
-## 5. Instale Github Desktop em seu computador
+## 5. Instale o Git e Github 
+
+### Opção 1: Github via linha de comando
+Para utilizar o github via linha de comando:
+
+* siga o tutorial: [Instalando e Configurando o Git no Windows, Linux e Mac
+](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) ou [Instalando, configurando e inicializando o Git no Linux]( https://dev.to/womakerscode/instalando-configurando-e-inicializando-o-git-no-linux-2m96)
+* pule para a seção [Lista de projetos de jornalismo de dados recomendados](/#lista-de-projetos-de-jornalismo-de-dados-recomendados)
+
+![image](https://user-images.githubusercontent.com/17505036/130127514-eec92fee-3a6e-4540-881a-3d1f69e75e89.png)
+
+
+### Opção 2: Github Desktop
+Se você prefere utilizar a versão do GitHub Desktop com interface gráfica, siga os próximos passos 6, 7, 8 e 9.
+
+![image](https://user-images.githubusercontent.com/17505036/130127576-9da4080f-4ae3-4bec-bd6b-66f6e8631a29.png)
 
 Bem, o Github Desktop é a ferramenta mais rápida e fácil para baixar seus repositórios.
 
@@ -82,16 +96,16 @@ Clique no ícone Github Desktop e quando o aplicativo abrir, vá para o menu sup
 
 Se tiver dúvidas, consulte os [guias disponibilizados](https://docs.github.com/pt/desktop/contributing-and-collaborating-using-github-desktop).
 
-## 7. Clone (copie) seu repositório para seu computador com Github Desktop
+## 6. Clone (copie) seu repositório para seu computador com Github Desktop
 
 Na barra lateral esquerda do Github Desktop você deve ver a lista de repositórios que você criou.
 Caso não veja, pode buscar a opção de [clonar](https://docs.github.com/pt/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
 
-## 8. Salve o repositório clonado em sua pasta repos
+## 7. Salve o repositório clonado em sua pasta repos
 
 Quando você clona e salva o repositório na pasta de repositórios `repos`, o que você está fazendo é baixar para o seu computador uma cópia do repositório que estava hospedado em Github.com.
 
-## 9. Seu primeiro repositório e seu primeiro "Commit"
+## 8. Seu primeiro repositório e seu primeiro "Commit"
 Git e Github controlam todas as mudanças que você faz em seu repositório (se você deletou um arquivo, editou um texto, alterou uma planilha, adicionou uma foto, etc).
 
 O objetivo é que você possa conhecer e identificar todas as mudanças importantes que você faz e ter as diferentes versões. Algo como manter um changelog de todos os rascunhos que você escreve até que seu relatório seja publicado.
@@ -102,7 +116,7 @@ A regra é fazer um commit a cada alteração realizada com muita frequência e 
 
 - Faça uma alteração no arquivo `README.md` adicionando um título e descrição
 
-## 10. Resultado
+## 9. Resultado
 
 ![image](https://user-images.githubusercontent.com/17505036/129568620-0b73ec38-d3eb-494c-8db2-3e378f623bdf.png)
 
