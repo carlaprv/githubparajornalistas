@@ -121,4 +121,4 @@ A regra é fazer um commit a cada alteração realizada com muita frequência e 
 ![image](https://user-images.githubusercontent.com/17505036/129568620-0b73ec38-d3eb-494c-8db2-3e378f623bdf.png)
 
 # Lista de projetos de jornalismo de dados recomendados
-Consulte a lista de projetos em: []()
+Consulte a lista de projetos em: [https://github.com/carlaprv/githubparajornalistas/blob/main/projetos-jornalismo-de-dados.md](https://github.com/carlaprv/githubparajornalistas/blob/main/projetos-jornalismo-de-dados.md)
