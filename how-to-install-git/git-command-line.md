@@ -1,16 +1,16 @@
 # Opção 1: Instale o Git (linha de comando)
 Para utilizar o github via linha de comando, iremos precisar instalar o Git.
 
-#### Instalação Ubuntu
+## Instalação Ubuntu
 Rode o comando abaixo no seu terminal:
 ```bash
 sudo apt-get install git-all
 ```
 
-#### Instalação windows
+## Instalação windows
 Faça o download do [arquivo disponibilizado neste link](http://git-scm.com/download/win) e siga os passos de instalação.
 
-#### Instalação Mac
+## Instalação Mac
 Faça o download do [arquivo disponibilizado neste link](https://sourceforge.net/projects/git-osx-installer/) e siga os passos de instalação.
 
 Caso não funcione dessa forma, execute os dois comandos abaixo no seu terminal:
@@ -23,7 +23,7 @@ Caso não funcione dessa forma, execute os dois comandos abaixo no seu terminal:
 $ brew install git
 ```
 
-#### Verifique se a instalação foi feita corretamente digitando:
+## Verifique se a instalação foi feita corretamente digitando:
 ```bash
 git version
 ```
@@ -34,7 +34,7 @@ Se foi instalado corretamente, no seu terminal, deve aparecer algo semelhante ao
 git version 2.30.1 (Apple Git-130)
 ````
 
-### Configurando sua conta GitHub na sua máquina local
+## Configurando sua conta GitHub na sua máquina local
 Antes de começar a usar o git, é preciso fazer as configurações iniciais da sua conta no GitHub.
 
 Execute os comandos abaixo no seu terminal.
