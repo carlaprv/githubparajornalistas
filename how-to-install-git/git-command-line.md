@@ -20,7 +20,7 @@ Caso não funcione dessa forma, execute os dois comandos abaixo no seu terminal:
 ```
 
 ```bash
-$ brew install git
+brew install git
 ```
 
 ## Verifique se a instalação foi feita corretamente digitando:
