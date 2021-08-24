@@ -1,6 +1,11 @@
 # Opção 1: Instale o Git (linha de comando)
 Para utilizar o github via linha de comando, iremos precisar instalar o Git.
 
+## Primeiro, acesse o seu terminal
+- windows: `windows powershell`
+- ubuntu: busque por `terminal`
+- mac: busque por `terminal`
+
 ## Instalação Ubuntu
 Rode o comando abaixo no seu terminal:
 ```bash
