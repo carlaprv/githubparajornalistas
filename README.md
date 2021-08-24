@@ -30,6 +30,10 @@ Se você vai utilizar Git, é necessário armazenar seu repositório em algum lu
 
 + [Git Cheat Sheet (lista dos códigos Git por utilidade)](https://www.git-tower.com/blog/git-cheat-sheet/)
 
+### Como instalar GitHub?
+- Opção 1: [Git via linha de comando](https://github.com/carlaprv/githubparajornalistas/blob/main/how-to-install-git/git-command-line.md)
+- Opção 2: [Git via interface com GitHub Desktop](https://github.com/carlaprv/githubparajornalistas/blob/main/how-to-install-git/github-desktop.md)
+
 # Tutorial
 
 ### Crie uma conta no GitHub
@@ -75,10 +79,6 @@ Para listar arquivos e confirmar que a pasta foi criada:
 ```bash
 ls
 ```
-
-### Instale o github
-- Opção 1: [Git via linha de comando](https://github.com/carlaprv/githubparajornalistas/blob/main/how-to-install-git/git-command-line.md)
-- Opção 2: [Git via interface com GitHub Desktop](https://github.com/carlaprv/githubparajornalistas/blob/main/how-to-install-git/github-desktop.md)
 
 ## Lista de projetos de jornalismo de dados
 Consulte a lista de projetos em: [https://github.com/carlaprv/githubparajornalistas/blob/main/projetos-jornalismo-de-dados.md](https://github.com/carlaprv/githubparajornalistas/blob/main/projetos-jornalismo-de-dados.md) 
