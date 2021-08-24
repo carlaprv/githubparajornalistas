@@ -77,8 +77,8 @@ ls
 ```
 
 ### Instale o github
-- Opção 1: Git via linha de comando
-- Opção 2: Git via interface com GitHub Desktop
+- Opção 1: [Git via linha de comando](https://github.com/carlaprv/githubparajornalistas/blob/main/how-to-install-git/git-command-line.md)
+- Opção 2: [Git via interface com GitHub Desktop](https://github.com/carlaprv/githubparajornalistas/blob/main/how-to-install-git/github-desktop.md)
 
 ## Lista de projetos de jornalismo de dados
 Consulte a lista de projetos em: [https://github.com/carlaprv/githubparajornalistas/blob/main/projetos-jornalismo-de-dados.md](https://github.com/carlaprv/githubparajornalistas/blob/main/projetos-jornalismo-de-dados.md) 
