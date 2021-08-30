@@ -5,7 +5,6 @@ Objetivo de hoje: Neste tutorial você aprenderá como usar o Github para gerenc
 Tutorial inspirado em: [Github para Periodistas](https://github.com/craft2es/githubparaperiodistas/blob/master/githubparaperiodistas.md) e [Github e Github Desktop — Básico
 ](https://medium.com/@gabrielcassimiro/github-e-github-desktop-b%C3%A1sico-f439879cb087)
 
-
 ## Git x GitHub?
 
 ### O que é Git?
@@ -69,16 +68,13 @@ Utilize os comandos abaixo no seu **terminal**:
 ```bash
 cd ~/Desktop
 ```
-
 Para criar a pasta dentro de Desktop:
 ```bash
 mkdir repos
 ```
-
 Para listar arquivos e confirmar que a pasta foi criada:
 ```bash
 ls
 ```
-
 ## Lista de projetos de jornalismo de dados
 Consulte a lista de projetos em: [https://github.com/carlaprv/githubparajornalistas/blob/main/projetos-jornalismo-de-dados.md](https://github.com/carlaprv/githubparajornalistas/blob/main/projetos-jornalismo-de-dados.md) 
