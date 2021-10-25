@@ -15,7 +15,6 @@ Se tiver dúvidas, consulte os [guias disponibilizados](https://docs.github.com/
 
 Na barra lateral esquerda do Github Desktop você deve ver a lista de repositórios que você criou.
 
-Caso não veja, pode buscar a opção de [clonar](https://docs.github.com/pt/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
 
 ## Salve o repositório clonado em sua pasta repos
 
