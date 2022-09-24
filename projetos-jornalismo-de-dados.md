@@ -24,3 +24,4 @@ The Wall Street Journal | https://github.com/wsj | EUA
 Time Magazine | https://github.com/TimeMagazineLabs | EUA
 Volt Data Lab | https://github.com/voltdatalab | Brasil
 Vox Media | https://github.com/voxmedia | EUA
+Folha de S. Paulo | https://github.com/FolhaSP | Brasil
