@@ -25,3 +25,7 @@ Time Magazine | https://github.com/TimeMagazineLabs | EUA
 Volt Data Lab | https://github.com/voltdatalab | Brasil
 Vox Media | https://github.com/voxmedia | EUA
 Agência Pública | https://github.com/apublica/ | Brasil
+El Pais | https://github.com/epetGitHub | Espanha
+Mulheres em dados | https://github.com/mulheresemdados | Brasil
+Jornal O POVO | https://github.com/opovoonline | Brasil
+UOL | https://github.com/uol | Brasil
